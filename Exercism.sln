@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "csharp\hello-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "csharp\lucians-luscious-lasagna\LuciansLusciousLasagna.csproj", "{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "csharp\annalyns-infiltration\AnnalynsInfiltration.csproj", "{15584026-8771-4396-A539-C720F8F26C97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15584026-8771-4396-A539-C720F8F26C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15584026-8771-4396-A539-C720F8F26C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15584026-8771-4396-A539-C720F8F26C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15584026-8771-4396-A539-C720F8F26C97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{31F4F8F2-7051-4BE3-8429-6365C1AFF9AE} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
+		{15584026-8771-4396-A539-C720F8F26C97} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF3C4834-8E25-483D-8108-60BD454E1487}

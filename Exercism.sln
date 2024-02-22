@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{D0BB5E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "csharp\hello-world\HelloWorld.csproj", "{31F4F8F2-7051-4BE3-8429-6365C1AFF9AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "csharp\lucians-luscious-lasagna\LuciansLusciousLasagna.csproj", "{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{31F4F8F2-7051-4BE3-8429-6365C1AFF9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31F4F8F2-7051-4BE3-8429-6365C1AFF9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31F4F8F2-7051-4BE3-8429-6365C1AFF9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{31F4F8F2-7051-4BE3-8429-6365C1AFF9AE} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
+		{B7BA710F-7B1D-485F-AD6F-565A39D14BEC} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF3C4834-8E25-483D-8108-60BD454E1487}

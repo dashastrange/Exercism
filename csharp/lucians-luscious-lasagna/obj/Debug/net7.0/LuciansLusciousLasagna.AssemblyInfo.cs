@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db455783a833216c8097b520161d71ad915d1a92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8c7222996318c9a160fdaef59dd22eee9e5df7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

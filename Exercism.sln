@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAssemble", "csharp\cars
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "csharp\leap\Leap.csproj", "{C36131A6-4DB1-4367-BCB2-286B7AE8B52E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestIsInteresting", "csharp\interest-is-interesting\InterestIsInteresting.csproj", "{2B32ED88-235F-4D42-A4FE-381C723D55AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{C36131A6-4DB1-4367-BCB2-286B7AE8B52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C36131A6-4DB1-4367-BCB2-286B7AE8B52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C36131A6-4DB1-4367-BCB2-286B7AE8B52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{15584026-8771-4396-A539-C720F8F26C97} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{3AB1CDFC-6A27-4CEB-9B49-A95548D0272A} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{C36131A6-4DB1-4367-BCB2-286B7AE8B52E} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
+		{2B32ED88-235F-4D42-A4FE-381C723D55AC} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF3C4834-8E25-483D-8108-60BD454E1487}

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "csharp\leap\Leap.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestIsInteresting", "csharp\interest-is-interesting\InterestIsInteresting.csproj", "{2B32ED88-235F-4D42-A4FE-381C723D55AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "csharp\log-levels\LogLevels.csproj", "{73DF0442-BDD2-4D13-8D75-894F1E4BC958}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B32ED88-235F-4D42-A4FE-381C723D55AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DF0442-BDD2-4D13-8D75-894F1E4BC958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DF0442-BDD2-4D13-8D75-894F1E4BC958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DF0442-BDD2-4D13-8D75-894F1E4BC958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DF0442-BDD2-4D13-8D75-894F1E4BC958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{3AB1CDFC-6A27-4CEB-9B49-A95548D0272A} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{C36131A6-4DB1-4367-BCB2-286B7AE8B52E} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{2B32ED88-235F-4D42-A4FE-381C723D55AC} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
+		{73DF0442-BDD2-4D13-8D75-894F1E4BC958} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF3C4834-8E25-483D-8108-60BD454E1487}

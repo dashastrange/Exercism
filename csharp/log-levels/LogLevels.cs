@@ -19,13 +19,13 @@ static class LogLine
 
     public static string LogLevel(string logLine)
     {
-        char firstChar = '[';
-        char secondChar = ']';
+        //char firstChar = '[';
+        //char secondChar = ']';
 
-        int startPos = logLine.IndexOf(firstChar);
-        int endPos = logLine.IndexOf(secondChar);
+        //int startPos = logLine.IndexOf(firstChar);
+        //int endPos = logLine.IndexOf(secondChar);
 
-        
+        return "0";
 
     }
 

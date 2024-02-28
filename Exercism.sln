@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darts", "csharp\darts\Darts
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "csharp\triangle\Triangle.csproj", "{10EB9A4E-AFAD-43DF-B1E5-367D1E595C84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "csharp\difference-of-squares\DifferenceOfSquares.csproj", "{1DDF83E5-2F87-497A-A177-9FA8BFCAC2A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{10EB9A4E-AFAD-43DF-B1E5-367D1E595C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EB9A4E-AFAD-43DF-B1E5-367D1E595C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EB9A4E-AFAD-43DF-B1E5-367D1E595C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDF83E5-2F87-497A-A177-9FA8BFCAC2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDF83E5-2F87-497A-A177-9FA8BFCAC2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDF83E5-2F87-497A-A177-9FA8BFCAC2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDF83E5-2F87-497A-A177-9FA8BFCAC2A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{73DF0442-BDD2-4D13-8D75-894F1E4BC958} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{4D279516-3648-4027-B46B-F53535B32B00} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 		{10EB9A4E-AFAD-43DF-B1E5-367D1E595C84} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
+		{1DDF83E5-2F87-497A-A177-9FA8BFCAC2A0} = {D0BB5E84-8174-4D95-9C5B-CBB66B6C9A98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF3C4834-8E25-483D-8108-60BD454E1487}

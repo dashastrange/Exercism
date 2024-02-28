@@ -9,28 +9,22 @@ public static class DifferenceOfSquares
 
     public static int CalculateSquareOfSum(int max)
     {
-       var numberList = Enumerable.Range(0, max).ToList();
-       var sumNum = numberList.Sum();
-       return (int)Math.Pow(2, sumNum);
+       var sumNum = Enumerable.Range(0, max).Select(number => number).Sum();
+       return sumNum^2;
     }
 
     public static int CalculateSumOfSquares(int max)
     {
-        var numberList = Enumerable.Range(0, max).ToList();
-
-        for (int i = 0; i <= max; i++)
-        {
-            Math.Pow(2, i);
-            
-        }
-        
-            
-        
-
+        return Enumerable.Range(0, max + 1).Select(number => number * number).Sum();
     }
 
     public static int CalculateDifferenceOfSquares(int max)
     {
-        return 9;
+        var sumNum = Enumerable.Range(0, max).Select(number => number).Sum();
+        var square = sumNum^2;
+        var sqNum = Enumerable.Range(0, max + 1).Select(number => number * number).Sum();
+
+        return square - sqNum;
+    
     }
 }

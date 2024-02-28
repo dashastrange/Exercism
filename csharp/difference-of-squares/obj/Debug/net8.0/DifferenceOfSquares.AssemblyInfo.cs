@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DifferenceOfSquares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c2d87e53113f3604060d197f5ccef17114a4ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5907688ab78ecb5e7d9bb9ad9ef5429866b0ecdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DifferenceOfSquares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DifferenceOfSquares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

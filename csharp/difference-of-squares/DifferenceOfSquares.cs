@@ -6,25 +6,7 @@ using System.Xml.Linq;
 
 public static class DifferenceOfSquares
 {
-
-    public static int CalculateSquareOfSum(int max)
-    {
-       var sumNum = Enumerable.Range(0, max).Select(number => number).Sum();
-       return sumNum^2;
-    }
-
-    public static int CalculateSumOfSquares(int max)
-    {
-        return Enumerable.Range(0, max + 1).Select(number => number * number).Sum();
-    }
-
-    public static int CalculateDifferenceOfSquares(int max)
-    {
-        var sumNum = Enumerable.Range(0, max).Select(number => number).Sum();
-        var square = sumNum^2;
-        var sqNum = Enumerable.Range(0, max + 1).Select(number => number * number).Sum();
-
-        return square - sqNum;
-    
-    }
+    public static int CalculateSquareOfSum(int max) => (int)Math.Pow(Enumerable.Range(1, max).Sum(), 2);
+	public static int CalculateSumOfSquares(int max) => Enumerable.Range(1, max).Select(i => i * i).Sum();
+	public static int CalculateDifferenceOfSquares(int max) => CalculateSquareOfSum(max) - CalculateSumOfSquares(max);
 }

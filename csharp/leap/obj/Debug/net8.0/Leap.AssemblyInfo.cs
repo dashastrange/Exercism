@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f35b6fac2974f76bce3cfe6030159b92023f98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7ecfb0bdede9eb49836bd2be97ce212f41ebb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

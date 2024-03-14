@@ -2,35 +2,10 @@ using System;
 
 static class LogLine
 {
-    public static string Message(string logLine)
-    {
-        if (logLine.Contains("/r"))
-        {
-            string str = logLine.Substring(logLine.IndexOf(" "));
-            string trimmedStr = str.Trim();
-            return trimmedStr.Substring(str.IndexOf("/"));
-        }
-        else
-        {
-            string str = logLine.Substring(logLine.IndexOf(" "));
-            return str.Trim();
-        }
-    }
+    public static string Message(string logLine) => logLine[(logLine.IndexOf(':') + 1)..].Trim();
 
-    public static string LogLevel(string logLine)
-    {
-        //char firstChar = '[';
-        //char secondChar = ']';
+    public static string LogLevel(string logLine) => logLine[1..logLine.IndexOf(']')].ToLower();
+    
 
-        //int startPos = logLine.IndexOf(firstChar);
-        //int endPos = logLine.IndexOf(secondChar);
-
-        return "0";
-
-    }
-
-    public static string Reformat(string logLine)
-    {
-        return "0";
-    }
+    public static string Reformat(string logLine) => $"{Message(logLine)} ({LogLevel(logLine)})";
 }

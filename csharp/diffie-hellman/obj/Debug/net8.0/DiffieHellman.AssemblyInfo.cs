@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiffieHellman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e79d095a2fda6e512461d50eeac304f07df8277")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c101ce2b7051879417bd090b06ce11ccdb99bc71")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiffieHellman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiffieHellman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

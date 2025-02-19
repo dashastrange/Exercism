@@ -1,18 +1,7 @@
-"""Functions used in preparing Guido's gorgeous lasagna.
+EXPECTED_BAKE_TIME = 40
+PREPARATION_TIME = 0
 
-Learn about Guido, the creator of the Python language:
-https://en.wikipedia.org/wiki/Guido_van_Rossum
-
-This is a module docstring, used to describe the functionality
-of a module and its functions and/or classes.
-"""
-
-
-#TODO: define the 'EXPECTED_BAKE_TIME' constant below.
-
-
-#TODO: Remove 'pass' and complete the 'bake_time_remaining()' function below.
-def bake_time_remaining():
+def bake_time_remaining(elapsed_bake_time):
     """Calculate the bake time remaining.
 
     :param elapsed_bake_time: int - baking time already elapsed.
@@ -22,20 +11,27 @@ def bake_time_remaining():
     an argument and returns how many minutes the lasagna still needs to bake
     based on the `EXPECTED_BAKE_TIME`.
     """
+    return EXPECTED_BAKE_TIME - elapsed_bake_time
+    
+def preparation_time_in_minutes(number_of_layers):
+    """Calculate the preparation time in minutes.
 
-    pass
+    :param number_of_layers: int - number of layers in lasagna
+    :return: int - overall time to prepare all layers
 
+    Function that takes the number of layers of lasagna and 
+    calculates its preparation time (no baking yet)
+    """
+    return number_of_layers * 2
 
-#TODO: Define the 'preparation_time_in_minutes()' function below.
-# You might also consider defining a 'PREPARATION_TIME' constant.
-# You can do that on the line below the 'EXPECTED_BAKE_TIME' constant.
-# This will make it easier to do calculations.
+def elapsed_time_in_minutes(number_of_layers, elapsed_bake_time):
+    """Calculate the elapsed time in minutes.
 
+    :param number_of_layers: int - number of layers in lasagna
+    :param elapsed_bake_time: int - number of minutes lasagna already baking
+    :return: int - overall time to bake all layers
 
-
-#TODO: define the 'elapsed_time_in_minutes()' function below.
-
-
-
-# TODO: Remember to go back and add docstrings to all your functions
-#  (you can copy and then alter the one from bake_time_remaining.)
+    Function that takes the number of layers of lasagna and 
+    calculates its baking time
+    """
+    return number_of_layers * 2 + elapsed_bake_time

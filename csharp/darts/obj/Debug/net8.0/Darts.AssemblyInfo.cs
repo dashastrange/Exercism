@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Darts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffeb0708165abd7bbd97ae88e008817ce79de9bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1102c0c35eab96340d8fb3ddb9bdd8f28b5de3a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Darts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Darts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

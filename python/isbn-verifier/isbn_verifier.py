@@ -1,28 +1,18 @@
 def is_valid(isbn):
-    num_list = []
-    numbers = '0123456789'
-    isbn_list = list(isbn.replace('-',''))
-    int_arr = []
-    n = 0
-    sum = 0
-
-    for num in isbn_list:
-        if num in numbers:
-            num_list.append(num)
-        else:
-            num_list.append(10)
-
-    for index in num_list:
-        int_arr.append(int(index))
-
-    while n <= len(num_list):
-        for number in int_arr:
-            sum = number * n
-            n += 1
-    print(sum)
-
-    if sum % 11 == 0:
-        return True
-    else:
+    isbn = isbn.replace('-', '')  # Remove hyphens
+    if len(isbn) != 10:  # Check length
         return False
-    
+
+    num_list = []
+    for i, char in enumerate(isbn):
+        if char.isdigit():
+            num_list.append(int(char))
+        elif char == 'X' and i == 9:  # 'X' is only valid in the last position
+            num_list.append(10)
+        else:
+            return False
+
+    # Compute the ISBN-10 checksum
+    sum_num = sum(num_list[i] * (10 - i) for i in range(10))
+
+    return sum_num % 11 == 0  # Valid if divisible by 11

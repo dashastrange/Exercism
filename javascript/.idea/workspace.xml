@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13d32e10-98b3-4df6-8baa-ba880465b0cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../csharp/annalyns-infiltration/obj/Debug/net8.0/AnnalynsInfiltration.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/annalyns-infiltration/obj/Debug/net8.0/AnnalynsInfiltration.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/annalyns-infiltration/obj/Debug/net8.0/AnnalynsInfiltration.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/annalyns-infiltration/obj/Debug/net8.0/AnnalynsInfiltration.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/cars-assemble/obj/Debug/net8.0/CarsAssemble.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/cars-assemble/obj/Debug/net8.0/CarsAssemble.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/cars-assemble/obj/Debug/net8.0/CarsAssemble.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/cars-assemble/obj/Debug/net8.0/CarsAssemble.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/darts/obj/Debug/net8.0/Darts.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/darts/obj/Debug/net8.0/Darts.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/darts/obj/Debug/net8.0/Darts.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/darts/obj/Debug/net8.0/Darts.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/difference-of-squares/obj/Debug/net8.0/DifferenceOfSquares.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/difference-of-squares/obj/Debug/net8.0/DifferenceOfSquares.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/difference-of-squares/obj/Debug/net8.0/DifferenceOfSquares.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/difference-of-squares/obj/Debug/net8.0/DifferenceOfSquares.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/diffie-hellman/obj/Debug/net8.0/DiffieHellman.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/diffie-hellman/obj/Debug/net8.0/DiffieHellman.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/diffie-hellman/obj/Debug/net8.0/DiffieHellman.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/diffie-hellman/obj/Debug/net8.0/DiffieHellman.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/hello-world/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/hello-world/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/hello-world/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/hello-world/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/interest-is-interesting/obj/Debug/net8.0/InterestIsInteresting.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/interest-is-interesting/obj/Debug/net8.0/InterestIsInteresting.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/interest-is-interesting/obj/Debug/net8.0/InterestIsInteresting.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/interest-is-interesting/obj/Debug/net8.0/InterestIsInteresting.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/leap/obj/Debug/net8.0/Leap.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/leap/obj/Debug/net8.0/Leap.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/leap/obj/Debug/net8.0/Leap.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/leap/obj/Debug/net8.0/Leap.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/log-levels/obj/Debug/net8.0/LogLevels.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/log-levels/obj/Debug/net8.0/LogLevels.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/log-levels/obj/Debug/net8.0/LogLevels.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/log-levels/obj/Debug/net8.0/LogLevels.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/lucians-luscious-lasagna/obj/Debug/net7.0/LuciansLusciousLasagna.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/lucians-luscious-lasagna/obj/Debug/net7.0/LuciansLusciousLasagna.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/lucians-luscious-lasagna/obj/Debug/net7.0/LuciansLusciousLasagna.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/lucians-luscious-lasagna/obj/Debug/net7.0/LuciansLusciousLasagna.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/roll-the-die/obj/Debug/net8.0/RollTheDie.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/roll-the-die/obj/Debug/net8.0/RollTheDie.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/roll-the-die/obj/Debug/net8.0/RollTheDie.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/roll-the-die/obj/Debug/net8.0/RollTheDie.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/triangle/obj/Debug/net8.0/Triangle.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/triangle/obj/Debug/net8.0/Triangle.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/triangle/obj/Debug/net8.0/Triangle.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/triangle/obj/Debug/net8.0/Triangle.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/hello-world/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/hello-world/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/hello-world/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/hello-world/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/isbn-verifier/isbn_verifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/isbn-verifier/isbn_verifier.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2umOUV0zOLSEULtrNDorLypchXl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dariavasylieva/Exercism/javascript"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13d32e10-98b3-4df6-8baa-ba880465b0cc" name="Changes" comment="" />
+      <created>1742850298380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742850298380</updated>
+    </task>
+    <servers />
+  </component>
+</project>

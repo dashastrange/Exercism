@@ -1,12 +1,17 @@
 vowels = ['a', 'o', 'u', 'i', 'e', 'A', 'O', 'U', 'I', 'E']
-phrase = input("Say something: ")
 
-for char in phrase:
-    if char in vowels:
-        phrase = phrase.replace(char, '')
-    else:
-        continue
+def main():
+    phrase = input("Say something: ")
+    print(shorten(phrase))
 
-print(phrase)
+def shorten(word):
+    for char in word:
+        if char in vowels:
+            word = word.replace(char, '')
+        else:
+            continue
+    return word
 
 
+if __name__ == "__main__":
+    main()

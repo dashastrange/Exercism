@@ -1,5 +1,4 @@
 import random
-
 while True:
     try:
         number = int(input("Level: "))
@@ -25,5 +24,6 @@ while True:
         else:
             print("Just right!")
             break
+
     else:
         continue
